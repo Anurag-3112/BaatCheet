@@ -9,7 +9,7 @@ The project is open source and welcomes contributions from developers of all exp
 ---
 
 ## Features
-
+ 
 ### Authentication
 
 - User registration
